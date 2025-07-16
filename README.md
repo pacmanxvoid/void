@@ -30,8 +30,12 @@ You'll be asked to create a username and password (saved locally in users.json).
 # 📌 Available Options in Menu
 Option	Description
 1	Layer 4 UDP Attack via ./attack
+
+
 2	Layer 7 HTTP Attack via rapist.py
+
 3	View Logs (coming soon)
+
 4	Exit
 
 # 🌐 Running an Attack
