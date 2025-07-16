@@ -10,8 +10,11 @@ BEFORE WE STARTING- THIS PROJECT IS USED FOR EDUCATIONAL PURPOSE ONLY
 
 
 sudo pacman -S python-pip gcc
+
 pip install -r requirements.txt
+
 Or manually:
+
 pip install rich pyfiglet
 
 
@@ -19,6 +22,7 @@ pip install rich pyfiglet
 Step 1: Launch the tool
 
 python launcher.py
+
 Step 2: Register or Login
 
 You'll be asked to create a username and password (saved locally in users.json).
