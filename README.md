@@ -19,11 +19,13 @@ pip install rich pyfiglet
 
 
 # ▶️ How to Use
-Step 1: Launch the tool
+Step 1: git clone https://github.com/pacmanxvoid/void.git
+
+Step 2: Launch the tool
 
 python launcher.py
 
-Step 2: Register or Login
+Step 3: Register or Login
 
 You'll be asked to create a username and password (saved locally in users.json).
 
